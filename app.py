@@ -97,7 +97,7 @@ st.markdown(
     """
     <hr style="margin-top:50px;">
     <div style="text-align: center; color: grey; font-size: 14px;">
-        © 2026 Aditya Kumar Jha | All Rights Reserved
+        © 2026 Aditya Kumar Jha
     </div>
     """,
     unsafe_allow_html=True
