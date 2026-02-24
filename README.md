@@ -41,7 +41,7 @@ https://flight-fare-predictor-aditya.streamlit.app/
 The model is trained on the popular Flight Fare dataset from Kaggle.  
 
 - Dataset Link:
-  https://www.kaggle.com/datasets
+  https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
 ## ⚙️ Installation
 To run this project locally, clone the repository and install the dependencies:
