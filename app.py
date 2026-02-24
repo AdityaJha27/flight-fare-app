@@ -92,3 +92,13 @@ if st.button("Predict"):
     ]])
 
     st.success(f"Estimated Flight Price: ₹ {round(prediction[0],2)}")
+
+st.markdown(
+    """
+    <hr style="margin-top:50px;">
+    <div style="text-align: center; color: grey; font-size: 14px;">
+        © 2026 Aditya Kumar Jha | All Rights Reserved
+    </div>
+    """,
+    unsafe_allow_html=True
+)
